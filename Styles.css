@@ -1,7 +1,9 @@
 
 body {
   background-color: #fff;
+ font-family: cursive;
 }
+
 hr {
   border-color: #400082 ;
   border-width: 5px;
@@ -9,18 +11,23 @@ hr {
   border-top-style: dotted;
   width: 5%;
 }
+
 h1,h3 {
   color: #66bfbf;
 }
+
 h2{
-  color: #ffb6b6
+  color: #14233c;
 }
+
 .email:hover {
   color: #ffb6b6;
 }
+
 .button {
   background-color: #66bfbf;
 }
+
 .body-marg {
   margin-left: 20px;
 }
@@ -31,6 +38,7 @@ width: 20%;
 margin-left: auto ;
 float: right;
 }
+
 .Copyright{
    padding-top: 20px;
   color: #d8345f;
@@ -38,13 +46,23 @@ float: right;
   font-weight: bold;
   text-align: left;
 }
+
 .Bio-div {
 
   width: 80%;
   margin-right: auto;
   float: right;
 }
+
 a {
   text-decoration: none;
   color: #05dfd7;
+}
+
+td, table {
+  border-color: #14233c;
+}
+
+.Name {
+  
 }
